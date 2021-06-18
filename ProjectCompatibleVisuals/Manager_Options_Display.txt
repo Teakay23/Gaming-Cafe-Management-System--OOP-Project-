@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+                                             \\\\,
+   "Welcome to the Managerial Deparment!"    /  \\      "Don't mind me, select an option 
+                                             '<' )      and I'll have someone escort you!" 
+                                             \- /         
+                                             _)_(_                                  Select an option:
+                                           .'\___/'.                               1.View Personal Details.
+                          ________________/.-.___.-.\___________________           
+                         [______________________________________________]          2.View All Worker IDs.
+                                        |              |
+                                  (     |              |       (\/)                3.Set Schedule for Regular Staff Workers.
+                               ) _\)_   |              |      <_@__>                 
+                             _(/_ ||    |              |       (/\)(\/)            4.View the Schedule for the Regular Staff.            
+                              ||  ||    |              |      (\/) <_@_>           
+                              ||  ||    |              |     <_@_>'(/\)            5.Set Schedule for Technical Department Staff.           
+                              ||  ||    |              |      (/\|/|-.             
+                              ||  ||   .----------------.       _|_|_              6.View the Schedule for Technical Department Staff.          
+                              ||  ||_,-'----------------'-,__  |     |             
+                              ||__||_________________________|_\_____/__           7.Set The Menu.          
+                                                 __                                
+                              .-.               /  \                               8.View The Menu.
+                             //)\\             |    | "I've been here since
+                             ||(||     .-.     (\__/)    7 am!"                    9.Delete Account.
+                            .//\\\.   //|\\    _)__(_
+                           / `"""` \  )|||(  /`      `\                            10.Return To Login Menu.
+                        ===================================.
+                     |                                        |                    11.Exit.
+                     |                                        |
+                     |                                        |

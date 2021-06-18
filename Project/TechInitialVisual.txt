@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+	     ^^^        (                  	     ^^^        (                  
+	    |. .|      (_)                 	    |. .|      (_)                 
+	    :'.':      ###       .         	    :'.':      ###       .         "You are the reason why we are able to continue
+	     \-/       (#c    __\|/__      	     \-/       (#c    __\|/__          operating without any setbacks, 
+	  .-'' ''-.     #\     wWWWw       	  .-'' ''-.     #\     wWWWw       	We appreciate each and every bit of your effort. Thankyou."
+	 /   ) (  \     \ \-. (/. .\)      	 /   ) (  \     \ \-. (/. .\)      						-Co-Founder, Umer Ahmed.
+	/ /\     /\ \   /\ /`\/\   /\      	/ /\     /\ \   /\ /`\/\   /\      
+	\ \_| o |_/ /   |\/   \_) (_|      	\ \_| o |_/ /   |\/   \_) (_|          Select Choice:
+	 \_/\___/\_/    `\.' ; ; `' ;`\    	 \_/\___/\_/    `\.' ; ; `' ;`\        1.View Personal Details.
+	   | \_/ |        `\;  ;    .  ;/\ 	   | \_/ |        `\;  ;    .  ;/\ 
+	   |  |  |          `\;    ;  ;|  \	   |  |  |          `\;    ;  ;|  \    2.View Schedule.
+	  /\-----/\          ;   .'  ' ;  /	  /\-----/\          ;   .'  ' ;  /
+	  \|-----|/          |_.'   ;  | /)	  \|-----|/          |_.'   ;  | /)    3.View Feedback.
+	   |     |           (_    ''._;/` 	   |     |           (_    ''._;/`   
+	   |     |           /\-----/\     	   | ___ |           /\-----/\         4.View Computer Technical Supply Inventory.   
+	   || . ||           \|-----|/     	   |  |  |           \|-----|/      
+	   ||/ \||            |  _  |      	   |  |  |            |  _  |          5.Allot Computer Technical Supply Inventory.    
+	   |     |            | |   |      	   |  _  |            | |_  |    
+	   |     |            | |_  |      	   | |_  |            |  _| |          6.View Regular In-House Technical Supply Inventory.         
+	   |  _  |            |     |      	   | |_  |            | ___ |  
+	   | |_  |            |  _  |      	   |     |            |  |  |          7.Allot Regular In-House Technical Supply Inventory.     
+	   | |_  |            | | | |      	   |  _  |            |  |  |    
+	   |     |            | |_| |      	   | |   |            |  _  |          8.Delete Account. 
+	   |     |            |     |      	   | |_  |            | |_| |             
+	   |     |            ||\ /||      	   |     |            | | | |          9.Return to Login Menu.
+	   | |   |            || ' ||      	   | |_| |            |     |          
+	   | |_  |            |     |      	   | | | |            |  _  |          10.Exit.
+	   |     |            |  _  |      	   |     |            | |_  |      
+	   |     |            | |_  |      	   |     |            | |   |          
+	   |_____|            | |_  |      	   |_____|            |  _  |      
+                              |     |                                 | |_  |         
+                              |     |                                 | |   |  
+                              |_____|                                 |_____|  
+                             `-------'                               `-------' 
